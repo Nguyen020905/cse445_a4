@@ -17,7 +17,6 @@
   <NationalPark Rating="4.8">
     <Name>Yellowstone</Name>
     <Phone>307-344-7381</Phone>
-    <Phone>307-344-2107</Phone>
     <Address NearestAirport="Bozeman">
       <Number>2</Number>
       <Street>Grand Loop Road</Street>
@@ -120,6 +119,18 @@
       <City>Moab</City>
       <State>UT</State>
       <Zip>84532</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Sequoia</Name>
+    <Phone>559-565-3341</Phone>
+    <Address NearestAirport="Fresno">
+      <Number>47050</Number>
+      <Street>Generals Highway</Street>
+      <City>Three Rivers</City>
+      <State>CA</State>
+      <Zip>93271</Zip>
     </Address>
   </NationalPark>
 </NationalParks>
